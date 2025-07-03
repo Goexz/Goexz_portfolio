@@ -86,7 +86,7 @@ export function Navigation() {
         <div className="flex items-center gap-3">
           <div className="hidden md:flex items-center gap-2">
             {[
-              { Icon: Github, href: "https://github.com", color: "hover:text-gray-900" },
+              { Icon: Github, href: "https://github.com/goexz", color: "hover:text-gray-900" },
               { Icon: Twitter, href: "https://twitter.com", color: "hover:text-blue-500" },
               { Icon: Linkedin, href: "https://linkedin.com", color: "hover:text-blue-600" },
             ].map(({ Icon, href, color }, index) => (
@@ -163,7 +163,7 @@ export function Navigation() {
 
           <div className="flex items-center justify-center gap-4 pt-6 border-t border-gray-200">
             {[
-              { Icon: Github, href: "https://github.com", color: "hover:text-gray-900", label: "GitHub" },
+              { Icon: Github, href: "https://github.com/goexz", color: "hover:text-gray-900", label: "GitHub" },
               { Icon: Twitter, href: "https://twitter.com", color: "hover:text-blue-500", label: "Twitter" },
               { Icon: Linkedin, href: "https://linkedin.com", color: "hover:text-blue-600", label: "LinkedIn" },
             ].map(({ Icon, href, color, label }, index) => (

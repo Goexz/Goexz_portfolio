@@ -10,6 +10,7 @@ import {
   Download,
   Code,
   Palette,
+  Boxes,
   Zap,
   Users,
   Award,
@@ -50,6 +51,28 @@ const staggerContainer = {
 }
 
 const skills = [
+  {
+    category: "Blockchain",
+    icon: Boxes,
+    technologies: [
+      {
+        name: "Solidity",
+        level: 55,
+    
+      },
+      {
+        name: "Layer 1/2 Protocols",
+        level: 50,
+    
+      },
+      {
+        name: "Vyper",
+        level: 70,
+    
+      },
+    ],
+    color: "from-blue-500 to-cyan-500",
+  },
   {
     category: "Frontend",
     icon: Palette,
@@ -98,7 +121,7 @@ const skills = [
         
       },
     ],
-    color: "from-blue-500 to-cyan-500",
+    color: "from-orange-500 to-red-500",
   },
   {
     category: "Backend",
@@ -427,7 +450,7 @@ export default function Home() {
               transition={{ delay: 0.2, duration: 0.8 }}
               className="text-6xl md:text-8xl font-bold bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent"
             >
-              B Jankaew
+               I'm West
             </motion.div>
 
             {/* Floating decorative elements */}

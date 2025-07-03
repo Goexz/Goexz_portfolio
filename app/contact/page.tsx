@@ -31,8 +31,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    value: "zxysynap@example.com",
-    href: "mailto:john.doe@example.com",
+    value: "byby555999@gmail.com",
+    href: "mailto:byby555999@gmail.com",
     color: "from-blue-500 to-cyan-500",
   },
   {
@@ -52,7 +52,7 @@ const contactInfo = [
 ]
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com", label: "GitHub" },
+  { icon: Github, href: "https://github.com/goexz", label: "GitHub" },
   { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
   { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
 ]

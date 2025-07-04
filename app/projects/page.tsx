@@ -33,8 +33,7 @@ const projects = [
       "A modern portfolio website showcasing projects and skills with beautiful animations and responsive design.",
     tech: ["Next.js", "Framer Motion", "Tailwind CSS"],
     image: "https://th.bing.com/th/id/R.9c14aac36866ebb75d03cea2475c4ba7?rik=pCVdtuxP4Kq9PA&pid=ImgRaw&r=0",
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/Goexz/Goexz_portfolio",
     featured: true,
   },
   {
@@ -42,10 +41,9 @@ const projects = [
     description: "Full-featured blog platform with CMS capabilities and SEO optimization.",
     longDescription:
       "A complete blog platform with content management system, SEO optimization, and social sharing features.",
-    tech: ["Next.js", "Sanity CMS", "TypeScript", "Vercel"],
+    tech: ["Go", "Docker", "Html", "CSS", "JavaScript"],
     image: "https://th.bing.com/th/id/R.9c14aac36866ebb75d03cea2475c4ba7?rik=pCVdtuxP4Kq9PA&pid=ImgRaw&r=0",
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/Goexz/Ngl-uuid-go",
     featured: false,
   },
 ]

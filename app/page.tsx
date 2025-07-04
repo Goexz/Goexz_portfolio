@@ -615,7 +615,7 @@ export default function Home() {
             <div className="relative">
               <motion.div whileHover={{ scale: 1.05 }} transition={{ duration: 0.3 }} className="relative z-10">
                 <Image
-                  src="https://media.discordapp.net/attachments/1299411921686106122/1390348893501391019/Picsart_25-07-03_22-09-54-948.jpg?ex=6867eecf&is=68669d4f&hm=b9542fd0ae41ff4ade8d4422611fd2ab825bcb83db657ebc25e85a374451c150&=&format=webp&width=960&height=960"
+                  src="https://img2.pic.in.th/pic/Picsart_25-07-03_22-09-54-948.jpg"
                   alt="Bunyarak Jankaew"
                   width={400}
                   height={400}
